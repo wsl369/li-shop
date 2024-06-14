@@ -1,0 +1,10 @@
+html {
+  --primary-color: #242424;
+  --bottom-nav-height: 60rem;
+  --secondary-color: #fff;
+  --border-color: #ddd;
+  --light-color: #666;
+  --height-color: tomato;
+  --success-color: green;
+  --warning-color: red;
+}
