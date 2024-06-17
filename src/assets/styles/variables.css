@@ -4,7 +4,8 @@ html {
   --secondary-color: #fff;
   --border-color: #ddd;
   --light-color: #666;
+  --hilight-color: tomato;
   --height-color: tomato;
   --success-color: green;
-  --warning-color: red;
+  --warning-color: rgb(153, 4, 4);
 }
